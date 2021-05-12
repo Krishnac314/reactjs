@@ -33,4 +33,14 @@ REPRESENTATION OF LISTS:
     2. Natural Numbers
 
 ![Taj Mahal](https://4.bp.blogspot.com/-KlFQJAMBBHo/UjQlDFI3QcI/AAAAAAAAYg4/fTAY4TGxDYc/s1600/Taj+Mahal+Desktop+Wallpapers+%25283%2529.jpg)
+FOR LINK REPRESENTATION:
 [Google](https://www.bing.com/search?q=google&form=ANNTH1&refig=694a88276194485190ac4299f03a895c)
+FOR LANGUAGE REPRESENTATION:
+~~~python
+def fun():
+print("hai");
+~~~
+FOR TABLE REPRESENTATION
+Table 1    |  TAble 2
+-------    | ---------
+Table Body1| Table Body 2
